@@ -1,0 +1,10 @@
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/portfolio-lg-bg.png');
+  background-size: cover;
+  min-height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-right: 20px;
+}

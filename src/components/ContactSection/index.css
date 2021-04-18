@@ -1,0 +1,40 @@
+.contact-section-container {
+  background-color: #ffffff20;
+  border: 1px solid #f8fafc;
+  border-radius: 15px;
+  padding: 15px;
+  height: 80vh;
+  width: 60vw;
+  margin-bottom: 20px;
+}
+
+.contact-heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.map-image {
+  height: 300px;
+  width: 60%;
+}
+.contact-info {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.contact-title {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.number {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 15px;
+}

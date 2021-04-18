@@ -1,0 +1,46 @@
+.home-section-container {
+  background-color: #ffffff20;
+  border: 1px solid #f8fafc;
+  border-radius: 15px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 80vh;
+  width: 60vw;
+  margin-bottom: 20px;
+}
+
+.items {
+  text-align: center;
+}
+
+.heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.role {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.skills {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.button {
+  background-color: #ffffff;
+  color: #f43f5e;
+  border-width: 0px;
+  border-radius: 8px;
+  font-family: 'Roboto';
+  padding: 10px;
+  font-weight: 500;
+}

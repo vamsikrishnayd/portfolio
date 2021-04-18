@@ -1,0 +1,78 @@
+.about-section-bg-container {
+  background-color: #ffffff20;
+  border: 1px solid #f8fafc;
+  border-radius: 15px;
+  padding: 15px;
+  height: 80vh;
+  width: 60vw;
+  margin-bottom: 20px;
+}
+
+.about-heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.about-info {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.about-section-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.education-list {
+  list-style-image: url('https://res.cloudinary.com/lalitha/image/upload/v1618052162/list-icon-16_mboqnl.png');
+  padding-left: 16px;
+}
+
+.education {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.degree {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.title1 {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.skills-list {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  flex-wrap: wrap;
+}
+
+.skills-size {
+  margin-right: 400px;
+}
+
+.skills-title {
+  color: #ec4899;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 600;
+  background-color: #ffffff;
+  border-radius: 20px;
+  text-align: center;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding: 8px;
+}
